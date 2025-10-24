@@ -17,7 +17,7 @@ _global_logger = None
 
 def setup_multi_module_logging(
     log_dir: str,
-    modules_config: List[Dict[str, Any]],
+    modules_config: List[Dict],
     env: str = "dev",
     service: str = "excel_agent",
     level_console: str = "INFO",
