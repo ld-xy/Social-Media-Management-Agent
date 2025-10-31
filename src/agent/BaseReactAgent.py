@@ -1,4 +1,4 @@
-class Base_React_Agent:
+class BaseReactAgent:
     """
     这是一个基础的react架构
     """
